@@ -1,0 +1,18 @@
+[wp-marketplace.github.io]
+name:Your app name
+minimum-os:10.0.10240.0
+language:en-US;en-GB;ru-RU;
+appx:http://example.com/sample-app-publish/yourapp.appx
+cer:http://example.com/sample-app-publish/yourapp-certificate.cer
+description:http://example.com/sample-app-publish/yourapp-description.txt
+icon:http://example.com/sample-app-publish/yourapp-icon.png
+info:http://example.com/sample-app-publish/yourapp-info.txt
+[SCREENSHOTS]
+http://example.com/sample-app-publish/screenshots/a.png
+http://example.com/sample-app-publish/screenshots/b.png
+http://example.com/sample-app-publish/screenshots/c.png
+http://example.com/sample-app-publish/screenshots/d.png
+[DEPENDENCIES]
+http://example.com/sample-app-publish/dependencies/a.appx
+http://example.com/sample-app-publish/dependencies/b.appx
+http://example.com/sample-app-publish/dependencies/c.appx
