@@ -5,7 +5,7 @@ language:en-US;en-GB;ru-RU;
 appx:http://wp-marketplace.github.io/sample-app-publish/yourapp.appx
 cer:http://wp-marketplace.github.io/sample-app-publish/yourapp-certificate.cer
 description:http://wp-marketplace.github.io/sample-app-publish/yourapp-description.txt
-icon:http://wp-marketplace.github.io/sample-app-publish/yourapp-icon.png
+icon:http://wp-marketplace.github.io/marketplace-banner.png
 info:http://wp-marketplace.github.io/sample-app-publish/yourapp-info.txt
 [SCREENSHOTS]
 http://wp-marketplace.github.io/sample-app-publish/screenshots/a.png
